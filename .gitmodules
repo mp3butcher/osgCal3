@@ -1,0 +1,3 @@
+[submodule "osgCal3"]
+	path = osgCal3
+	url = ssh://mp3butcher@git.code.sf.net/p/osgcal3/code
